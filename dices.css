@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #393e46;
+  background-image: linear-gradient(to bottom right, #393e46, rgb(8, 33, 78));
 }
 
 h1 {
