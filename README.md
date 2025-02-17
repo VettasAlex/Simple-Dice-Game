@@ -17,4 +17,4 @@ A simple dice game where the higher roll wins. Just a small project for fun!
 Clone the repo:  
 
 ```bash
-git clone https://github.com/VettasAlex/Dice.git
+git clone https://github.com/VettasAlex/Simple-Dice-Game.git
