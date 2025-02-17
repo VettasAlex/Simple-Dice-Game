@@ -18,12 +18,12 @@ h1 {
   font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ecca3;
+  color: #549edb;
 }
 
 p {
   font-size: 2rem;
-  color: #4ecca3;
+  color: #4eafcc;
   font-family: "Indie Flower", cursive;
 }
 
@@ -34,7 +34,7 @@ img {
 button {
   font-family: "Lobster", cursive;
   font-size: 2rem;
-  color: #4ecca3;
+  color: #549edb;
   background-color: rgb(50, 49, 49);
   display: block; /* Makes it take full width in the container */
   margin: 20px auto; /* Centers it horizontally */
@@ -45,6 +45,6 @@ button {
 }
 
 button:hover {
-  background-color: #4ecca3;
+  background-color: #549edb;
   color: #393e46;
 }
