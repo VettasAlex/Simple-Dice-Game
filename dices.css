@@ -11,8 +11,10 @@
 
 body {
   background-image: linear-gradient(to bottom right, #393e46, rgb(8, 33, 78));
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* fixed on scroll */
+  background-size: cover;
 }
-
 h1 {
   margin: 30px;
   font-family: "Lobster", cursive;
