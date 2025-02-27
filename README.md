@@ -1,21 +1,27 @@
+# 🎲 Dice Game
 
-# 🎲 Dice Game  
+A simple dice game where the higher roll wins. Just a small project for fun!
 
-A simple dice game where the higher roll wins. Just a small project for fun!  
+## 🚀 How It Works
 
-## 🚀 How It Works  
-- Click the **"Roll"** button.  
-- Two dice roll—one for you, one for your opponent.  
-- The player with the higher number wins!  
-- That’s it. No tricks, just luck.  
+- Click the **"Roll"** button.
+- Two dice roll—one for you, one for your opponent.
+- The player with the higher number wins!
+- That’s it. No tricks, just luck.
 
-## 🛠 Tech Used  
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
+## 🛠 Tech Used
 
-## 🔧 Running It Locally  
-Clone the repo:  
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## 🔧 Running It Locally
+
+Clone the repo:
 
 ```bash
 git clone https://github.com/VettasAlex/Simple-Dice-Game.git
+
+```
+
+> > > > > > > Stashed changes
