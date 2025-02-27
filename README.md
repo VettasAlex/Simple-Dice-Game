@@ -19,4 +19,3 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/VettasAlex/Simple-Dice-Game.git
->>>>>>> 21076488c68e1f621c567a04f4c9b19210aef28b
