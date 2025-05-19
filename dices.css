@@ -19,7 +19,16 @@ h1 {
   margin: 30px;
   font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: clamp(2rem, 8vw, 7rem); /* Adjusts on screen width */
+  color: #549edb;
+  white-space: nowrap;
+}
+
+h2 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
   color: #549edb;
 }
 
@@ -38,7 +47,7 @@ button {
   font-size: 2rem;
   color: #549edb;
   background-color: rgb(50, 49, 49);
-  display: block; /* Makes it take full width in the container */
+  display: block; /* Full width in  container */
   margin: 20px auto; /* Centers it horizontally */
   padding: 10px 20px; /* Adds some space */
   border: none;
